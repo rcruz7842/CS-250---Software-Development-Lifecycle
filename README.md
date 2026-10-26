@@ -6,7 +6,7 @@ Throughout this course, I learned how Agile and Scrum are used to plan, develop,
 
 # Course Project
 
- [Sprint Review and Retrospective](Sprint%20Review1.docx)
+ [Sprint Review and Retrospective](Sprint%20Review.docx)
 
 For the SNHU Travel project, I worked through different Scrum roles and learned how each one contributed to the development process. My Sprint Review and Retrospective goes over what I worked on, how the team handled changing requirements, and what I learned from using Agile throughout the project.
 
